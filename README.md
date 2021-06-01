@@ -1,2 +1,3 @@
 # RandPassGenerator-Jar
-A command-line utility for generating random passwords, passphrases, and raw keys.
+This is just the built jar file for the original "RandPassGenerator" made by the NSA
+<a href="https://github.com/nsacyber/RandPassGenerator">Original Repo For The RandPassGenerator ♥</a><br><br>
